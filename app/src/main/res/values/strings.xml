@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nilai Mahasiswa</string>
+    <string name="header">Hitung Nilai Mahasiswa</string>
+    <string name="text_nim">NIM :</string>
+    <string name="text_nama">Nama :</string>
+    <string name="text_kehadiran">N. Kehadiran :</string>
+    <string name="text_tugas">N. Tugas :</string>
+    <string name="text_uts">N. UTS :</string>
+    <string name="text_uas">N. UAS :</string>
+    <string name="text_nilaiAkhir">N. Akhir :</string>
+    <string name="text_mutu">Mutu :</string>
+    <string name="button">Hitung</string>
+    <string name="hasilNim"> %d</string>
+    <string name="hasilNama"> %s</string>
+    <string name="hasilKehadiran"> %1.1f</string>
+    <string name="hasilTugas"> %1.1f</string>
+    <string name="hasilUts"> %1.1f</string>
+    <string name="hasilUas"> %1.1f</string>
+    <string name="hasilAkhir"> %1.1f</string>
+    <string name="mutu"> %s</string>
+</resources>
