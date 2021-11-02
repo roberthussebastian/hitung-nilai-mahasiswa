@@ -79,14 +79,14 @@
 
     <TextView
         android:id="@+id/id_kehadiran"
-        android:layout_width="87dp"
+        android:layout_width="95dp"
         android:layout_height="19dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="2dp"
         android:text="@string/text_kehadiran"
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.02"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/outlinedTextNama" />
 
@@ -114,14 +114,14 @@
 
     <TextView
         android:id="@+id/id_tugas"
-        android:layout_width="63dp"
+        android:layout_width="75dp"
         android:layout_height="19dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="2dp"
         android:text="@string/text_tugas"
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.019"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/outlinedTextKehadiran" />
 
